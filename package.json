@@ -1,0 +1,25 @@
+{
+  "name": "synote-connect",
+  "version": "0.0.1",
+  "description": "Connect Synote with external lecture capture software and VLEs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TomKemp/synote-connect.git"
+  },
+  "keywords": [
+    "Synote"
+  ],
+  "author": "Thomas Kemp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomKemp/synote-connect/issues"
+  },
+  "homepage": "https://github.com/TomKemp/synote-connect#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
